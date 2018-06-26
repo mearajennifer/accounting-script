@@ -1,0 +1,5 @@
+Honeydew|0.99|True|greenish|green|6
+Crenshaw|2.00|False|yellowish|peach|7
+Crane|2.50|False|green|orange|5.5
+Casaba|2.50|False|golden yellow|white|5
+Cantaloupe|0.99|False|green|orange|8
